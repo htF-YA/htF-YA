@@ -23,7 +23,7 @@
       </ul>
 
 **Profile Views** 👀  
-![Profile Views](https://komarev.com/ghpvc/?username=htF-YA&label=Profile%20views&color=0e75b6&style=flat)
+<br>![Profile Views](https://komarev.com/ghpvc/?username=htF-YA&label=Profile%20views&color=0e75b6&style=flat)
     </td>
   </tr>
 </table> 
