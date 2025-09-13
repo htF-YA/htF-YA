@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on: **Full-stack projects, AI-driven applications, and open-source contributions**  
 - 🤔 I’m looking for help with: **Optimizing large-scale systems & advanced ML/AI integration**  
 - 💬 Ask me about: **Software architecture, backend development,frontend development , REST APIs, and full-stack best practices**  
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/amira-ajroud-1ab927274/) 
 - 😄 Pronouns: She/Her
 -  🎂 Age: **22 years old**  
 - ⚡ Fun fact: I love building apps that automate everyday tasks 🚀
@@ -78,7 +77,7 @@
 
 ### 🛠️ DevOps  
 <img src="https://skillicons.dev/icons?i=docker,jenkins,bash,kubernetes" />  
-![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="40" title="Vagrant" />
 
 
 
@@ -148,6 +147,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/amira-ajroud-1ab927274)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ton-twitter)
+[![Facebook](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100083431976431)
 
 </div>
 
