@@ -128,7 +128,7 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=dev)
 
 ### 🎮 Mini jeu 
-[Joue à TicTacToe en ligne](https://replit.com/@htF-YA/TicTacToe) !
+[Joue à TicTacToe en ligne](https://replit.com/@htF-YA/TicTacToe) !<br><br>
 ![TicTacToe](https://media.giphy.com/media/3o6ZsY1gJTX12U0U0k/giphy.gif)
 
 ## 🌐 Languages I Speak
