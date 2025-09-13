@@ -1,22 +1,32 @@
 <h1 align="center"><b>Hey , What's up? </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=It's+Amira+Ajroud..&hearts;++;Software-Engineering-Student;Love+to+learn..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=It's+Amira+Ajroud..&hearts;++;Software-Engineering-Student;Love+to+learn.."></a>
 </p>
 
-## 🌱 About Me
+<table>
+  <tr>
+    <td>
+      <!-- GIF animé du profil -->
+      <img src="profile.gif" width="300" alt="Profile GIF">
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <h2>🌱 About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working on: Development of Full-stack Applications</li>
+        <li>🌱 I’m currently learning: <strong>Flutter, DevOps (Docker, CI/CD), and AI (Chatbots & Recommendation Systems)</strong></li>
+        <li>👯 I’m looking to collaborate on: <strong>Full-stack projects, AI-driven applications, and open-source contributions</strong></li>
+        <li>🤔 I’m looking for help with: <strong>Optimizing large-scale systems & advanced ML/AI integration</strong></li>
+        <li>💬 Ask me about: <strong>Software architecture, backend development, frontend development, REST APIs, and full-stack best practices</strong></li>
+        <li>😄 Pronouns: She/Her</li>
+        <li>🎂 Age: <strong>22 years old</strong></li>
+        <li>⚡ Fun fact: I love building apps that automate everyday tasks 🚀</li>
+      </ul>
 
-
-- 🔭 I’m currently working on: Development of Full stack Applications  
-- 🌱 I’m currently learning: **Flutter, DevOps (Docker, CI/CD), and AI (Chatbots & Recommendation Systems)**  
-- 👯 I’m looking to collaborate on: **Full-stack projects, AI-driven applications, and open-source contributions**  
-- 🤔 I’m looking for help with: **Optimizing large-scale systems & advanced ML/AI integration**  
-- 💬 Ask me about: **Software architecture, backend development,frontend development , REST APIs, and full-stack best practices**  
-- 😄 Pronouns: She/Her
--  🎂 Age: **22 years old**  
-- ⚡ Fun fact: I love building apps that automate everyday tasks 🚀
-
-### 👀 Profile Views  
+**Profile Views** 👀  
 ![Profile Views](https://komarev.com/ghpvc/?username=htF-YA&label=Profile%20views&color=0e75b6&style=flat)
+    </td>
+  </tr>
+</table> 
 
 ## 📌 Most Used Languages  
 
