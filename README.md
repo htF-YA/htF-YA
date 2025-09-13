@@ -108,25 +108,28 @@
 
 ## 🌟Add-ons
 
-
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=htF-YA&theme=onedark&column=7&margin-w=15&margin-h=15)
-
-
-### 🚀 Top Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htF-YA&layout=compact&theme=radical)
-
 
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=htF-YA&theme=radical)
 
 
-
 ### 🌱 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=htF-YA&theme=radical&hide_border=true)  
 
 </div>
+
+### 🚀 Projets complétés 
+![Projets complétés](https://img.shields.io/badge/Projets%20complétés-5-blue)
+
+### 💡 Citation Du Jour
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=dev)
+
+### 🎮 Mini jeu
+[Joue à TicTacToe en ligne](https://replit.com/@TonPseudo/TicTacToe)  
+![TicTacToe](https://media.giphy.com/media/3o6ZsY1gJTX12U0U0k/giphy.gif)
 
 
 ## 🌐 Languages I Speak
