@@ -29,7 +29,6 @@
 </div>
 
 
-
 ## 🚀 Languages & Technologies 
 
 <div align="center">
@@ -37,67 +36,44 @@
 ### 🖥️ Programming Languages  
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,python" />
 
-
-
 ### 🎨 Frontend Development  
 <img src="https://skillicons.dev/icons?i=qt,angular,css,html,bootstrap" />  
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-
-
 
 ### ⚙️ Backend Development  
 <img src="https://skillicons.dev/icons?i=spring,graphql" />  
 <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 
-
-
 ### 📱 Mobile App Development  
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" />
-
-
 
 ### 🤖 AI / Machine Learning  
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
-
-
 ### 🗄️ Databases  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />  
 <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />  
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
-
-
 ### 📊 Data Visualization  
 <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-
-
 
 ### 🛠️ DevOps  
 <img src="https://skillicons.dev/icons?i=docker,jenkins,bash,kubernetes" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="40" title="Vagrant" />
 
-
-
-
 ### ☁️ Backend as a Service  
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-
 
 ### 🖌️ Software & Tools  
 <img src="https://skillicons.dev/icons?i=figma,postman" />  
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />  
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 
-
-
 ### 🎮 Game Engines  
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-
-
 
 ### 💻 Other Skills  
 <img src="https://skillicons.dev/icons?i=linux,arduino,git" />
